@@ -1,0 +1,8 @@
+*wallet.json
+dev_wallet.json
+Turbin3-wallet.json
+
+# Rust build artifacts
+/target/
+**/*.rs.bk
+Cargo.lock
