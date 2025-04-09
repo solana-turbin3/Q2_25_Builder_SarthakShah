@@ -5,7 +5,7 @@ pub mod state;
 
 use crate::instructions::*;
 
-declare_id!("75gtbD8QvTRHvqdAWrykfs6Q6WMe5RCtvQ5b85dfgZFQ");
+declare_id!("75gtbD8QvTRHvqdAWrykfs6Q6WMe5RCtvQ5b85dfgZFQ"); 
 
 #[program]
 pub mod escrow {
